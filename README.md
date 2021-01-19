@@ -1,10 +1,3 @@
-## Welcome to GitHub Pages
+## Astronomaly applied to MGCLS
 
-<div class="row">
-<div class="column">
-  <img src="images/img10.png" width=95%">
-</div>
-<div class="column">
-  <img src="images/img144.png" width=95%">
-</div>
-  </div>
+Repository to host a small website to show the unusual objects discovered by Astronomaly in the MGCLS data
